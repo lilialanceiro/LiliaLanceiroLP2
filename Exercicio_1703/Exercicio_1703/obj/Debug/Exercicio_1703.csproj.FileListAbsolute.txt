@@ -1,6 +1,0 @@
-c:\users\lilia\documents\visual studio 2013\Projects\Exercicio_1703\Exercicio_1703\bin\Debug\Exercicio_1703.exe.config
-c:\users\lilia\documents\visual studio 2013\Projects\Exercicio_1703\Exercicio_1703\bin\Debug\Exercicio_1703.exe
-c:\users\lilia\documents\visual studio 2013\Projects\Exercicio_1703\Exercicio_1703\bin\Debug\Exercicio_1703.pdb
-c:\users\lilia\documents\visual studio 2013\Projects\Exercicio_1703\Exercicio_1703\obj\Debug\Exercicio_1703.csprojResolveAssemblyReference.cache
-c:\users\lilia\documents\visual studio 2013\Projects\Exercicio_1703\Exercicio_1703\obj\Debug\Exercicio_1703.exe
-c:\users\lilia\documents\visual studio 2013\Projects\Exercicio_1703\Exercicio_1703\obj\Debug\Exercicio_1703.pdb
