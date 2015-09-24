@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aula_1509_2_
+namespace Aula_1509_3_4_
 {
-    class Empregado: Funcionario
+    class Terceirizado: Funcionario
     {
-        public double Salario { get; set; }
+        public string CNPJ { get; set; }
     }
 }
