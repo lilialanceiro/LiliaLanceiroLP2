@@ -86,7 +86,7 @@ namespace Exercicio_12
 
             foreach (Gerente gerente in Gerentes)
             {
-                Console.WriteLine("Cargo de gerente." + gerente);
+                Console.WriteLine("Cargo de gerente. Nome: " + gerente.Nome + ". Matrícula: " + gerente.Matricula + ". Salário: " + (gerente.SalarioTotal + gerente.ValeAlimentacao));
             }
 
 
