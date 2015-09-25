@@ -78,6 +78,19 @@ namespace Exercicio_12
                 }
             }
 
+            Console.WriteLine("");
+            foreach(Empregado empregado in Empregados)
+            {
+                Console.WriteLine("Cargo de empregado. Nome: " + empregado.Nome + ". Matrícula: " + empregado.Matricula + ". Salário: " + (empregado.Salario + empregado.ValeAlimentacao));
+            }
+
+            foreach (Gerente gerente in Gerentes)
+            {
+                Console.WriteLine("Cargo de gerente." + gerente);
+            }
+
+
+
             double salarioEmpregado = 0;
             double salarioGerente = 0;
             foreach (Empregado empregado in Empregados)
@@ -92,7 +105,7 @@ namespace Exercicio_12
             }
 
             double salarioTotal = salarioEmpregado + salarioGerente;
-            Console.WriteLine("A folha salarial da empresa é de {0} Reais", salarioTotal);
+            Console.WriteLine("A folha salarial (total) da empresa é de {0} Reais", salarioTotal);
         }
     }
 }
